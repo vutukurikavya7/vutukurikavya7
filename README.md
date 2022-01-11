@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I THINK I AM FUNNY!**
 
 **LANGUAGES AND TOOLS:**
-- **• C**
-- **• Python**
-- **• Java**
-- **• R**
+- ** C**
+- **Python**
+- **Java**
+- **R**
