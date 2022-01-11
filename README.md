@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I THINK I AM FUNNY!**
 
-align="center">Languages and tools:
+**Languages and tools:**
  • C
  • Python
  • Java
