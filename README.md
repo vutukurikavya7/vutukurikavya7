@@ -12,7 +12,8 @@
 - ⚡ Fun fact **I THINK I AM FUNNY!**
 
 **LANGUAGES AND TOOLS:**
-- ** C**
+- ![6e46e7dbe2bb73dacc055e5dbd85c3ad](https://user-images.githubusercontent.com/80099931/148906157-5eadde66-b1e4-4f57-a66c-205bacbd2c05.png)
+- **C**
 - **Python**
 - **Java**
 - **R**
